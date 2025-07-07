@@ -79,9 +79,9 @@ Hi there! I'm **Hong That Nguyen Ton**, a senior Computer Science student at **T
 ## 🎵 Hobbies & Interests
 
 🎹 Piano (4+ years) | 🎸 Guitar (8+ years) | 🏸 Badminton | 🏓 Table Tennis  
-
 ---
 
 > “Code with purpose, lead with impact.”
 
 
+![Tamdeii's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamdeii&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
