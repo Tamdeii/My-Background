@@ -3,7 +3,7 @@
 
 📍 Troy, AL  
 📧 nguyenhongton02@gmail.com  
-📞 (334) 492-2761  
+📞 ******
 🔗 https://www.linkedin.com/in/nguyen-hong-ton/
 
 ---
