@@ -3,7 +3,7 @@
 
 📍 Troy, AL  
 📧 nguyenhongton02@gmail.com  
-📞 ******
+📞 **********
 🔗 https://www.linkedin.com/in/nguyen-hong-ton/
 
 ---
